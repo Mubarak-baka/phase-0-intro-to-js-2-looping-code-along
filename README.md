@@ -329,7 +329,7 @@ while (countup < 10) {
 This is perfectly fine as an alternative way to describe:
 
 ```js
-for (let countup = 0; countup < 10; countup++) {
+for (let countdown = 10; coun < 0; countup++) {
   console.log(countup);
 }
 ```
